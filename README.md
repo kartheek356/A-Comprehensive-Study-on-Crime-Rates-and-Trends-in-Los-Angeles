@@ -1,6 +1,6 @@
-# A-Comprehensive-Study-on-Crime-Rates-and-Trends-in-Colorado-
+# A-Comprehensive-Study-on-Crime-Rates-and-Trends-in-Los Angeles-
 Data Mining Project
- Website link  https://sites.google.com/view/colorado-crime-analysis/home?authuser=0
+ Updated Website link  https://sites.google.com/view/colorado-crime-analysis/home?authuser=0
 
  
 We couldnt upload the dataset in the github as the files are exceeding 25MB so attaching the google drive link for the dataset.
